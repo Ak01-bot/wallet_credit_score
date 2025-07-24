@@ -74,7 +74,9 @@ WALLET_CREDIT_SCORE/
 ## Run One-Step Pipeline:-
 
 cd src
+
 python score_wallets.py
+
 
 ## Requirements
 
